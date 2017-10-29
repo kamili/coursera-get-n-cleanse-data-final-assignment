@@ -1,4 +1,4 @@
-# coursera-get-n-cleanse-data-final-assignment
+# coursera get-n-cleanse data final assignment
 
 The files contained within this repository are for the final assignment of the John Hopkins Coursera Course, Getting and Cleansing Data. Below is a link to the original dataset, which has data measuring human recognition activity in smartphones.
 
