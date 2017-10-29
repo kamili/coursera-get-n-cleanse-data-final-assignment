@@ -12,7 +12,7 @@ Link = https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%
 
 # how the script works...
 
-  # STEP 0.   I started by creating a new directory for the final assignment if it didn't already exist
+  ## STEP 0.   I started by creating a new directory for the final assignment if it didn't already exist
               !file.exists(), dir.create()
               Then I downloaded the human recognition activity zipped file, unzipped it and saved it to the directory
                 fileUrl, download.file(), unzip() 
